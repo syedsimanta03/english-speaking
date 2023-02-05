@@ -1,8 +1,8 @@
 > English - by The Greatest Syed Simanta
->
+>[Search on cambridge dictionary»](https://dictionary.cambridge.org/)
 > ------
 >
-> 
+
 
 [Part 1 6](#part-1)
 
