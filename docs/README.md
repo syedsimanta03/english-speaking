@@ -1,4 +1,4 @@
-> English - by The Greatest Syed Simanta
+> English - by The Greatest Syed Simanta <br>
 >[Search on cambridge dictionary»](https://dictionary.cambridge.org/)
 > ------
 >
