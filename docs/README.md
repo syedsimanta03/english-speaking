@@ -1,5 +1,5 @@
 > English - by The Greatest Syed Simanta <br>
->[Search on cambridge dictionary»](https://dictionary.cambridge.org/)
+>[Search on cambridge dictionary»](https://dictionary.cambridge.org/)  <br>
 >[Search on languagesystems»](http://idioms.languagesystems.edu//)
 
 > ------
