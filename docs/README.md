@@ -231,23 +231,24 @@ Advice
 
 Vocabulary and Sentences
 
-- Circadian rhythm
+- Circadian rhythm = **sleep-wake cycle**
+  > The circadian rhythm refers to the natural cycle of physical, mental, and behavioral changes that happen over a roughly 24-hour period. These changes are influenced by external factors such as light and temperature, as well as internal factors such as hormones and genetics. The circadian rhythm plays a crucial role in regulating our sleep-wake cycle, as well as many other physiological processes in the body.
 
-- Bright-eyed and bushy-tailed
+- Bright-eyed and bushy-tailed = **Energetic and enthusiastic**
 
-- Pluck up the courage
+- Pluck up the courage = **Be brave**
 
-- Cranky
+- Cranky = **easily irritated or annoying/unpleasant/showing bad temper**
 
-- Face the day head-on
+- Face the day head-on = **Take on the day confidently.**
 
-- Sweet spot
+- Sweet spot = **perfect balance**
 
-- To make your way to + place / destination
+- To make your way to + place / destination = **one the way one place to another place visit**
 
-- Zero-in
+- Zero-in = **focus**
 
-- Little-to-no
+- Little-to-no = **Not much**
 
 - Getting things in order / Getting something in order
 
