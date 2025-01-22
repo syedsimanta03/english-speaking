@@ -1222,7 +1222,7 @@ A: Well, I’m not really interested in either to be honest, but if I had to cho
 
 Q: What kinds of advertisements do you dislike?
 
-A: Most of them, to be honest! I can’t understand the people who don’t change channel when an advert comes on. I think life’s too short to sit around watching 3-4 minutes of people trying to flog their wares! But to focus on one type of advertisement in particular, I’d say it’d be gambling adverts – they always make gambling look so fun, but as we all know, it’s extremely addictive and damaging to the people who do it.
+A: Most of them, to be honest! I can’t understand the people who don’t change channel when an advert comes on. I think life’s too short to sit around watching 3-4 minutes of people trying to <abbr title=" when someone trying to sell something">flog their wares!</abbr> But to focus on one type of advertisement in particular, I’d say it’d be gambling adverts – they always make gambling look so fun, but as we all know, it’s extremely addictive and damaging to the people who do it.
 
 Q: Do you share advertisements with others?
 
