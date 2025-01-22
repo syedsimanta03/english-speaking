@@ -1,11 +1,9 @@
-> English - by The Greatest Syed Simanta <br>
+> English - by The Greatest Syed <br>
 >[Search on cambridge dictionary»](https://dictionary.cambridge.org/)  <br>
 >[Search on languagesystems»](http://idioms.languagesystems.edu//)
 
 > ------
 >
->
-
 
 [Part 1 6](#part-1)
 
